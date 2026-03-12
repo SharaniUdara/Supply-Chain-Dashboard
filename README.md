@@ -47,7 +47,7 @@ These insights help managers and analysts identify operational inefficiencies, i
 
 ## Dashboard Interaction
 
--<a href= https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Screen%20shot%201.png
+-<a href= (https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Screen%20shot%201.png)
 
 ### Dashboard Overview
 - The dashboard tracks several key supply chain metrics:
