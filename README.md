@@ -50,14 +50,23 @@ These insights help managers and analysts identify operational inefficiencies, i
 -<a href= https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Screen%20shot%201.png
 
 ### Overview Dashboard
+- The dashboard tracks several key supply chain metrics:
+- Total Supply Chain Cost: $1.73M
+- Total Ordered Quantity: 9,754
+- Average Lead Time: 28.71 days
+- Average Defect Rate: 3.09
 
-Shows high-level supply chain performance including:
-- Total Revenue: $578K
-- Total Products Sold: 46K
-- Total Cost: 58K
-- Average Profit Margin: 86%
-- Stock Level: 5K
-      
+Additional supporting metrics:
+
+- Maximum Cost per Unit
+- Minimum Cost per Unit
+- Daily Order Volume
+- Monthly Order Volume
+- Average Manufacturing Lead Time
+- Average Supplier Lead Time
+- High Defect SKUs
+- Low Defect SKUs
+  
 Key visualizations include:
 
 - Revenue by product type
