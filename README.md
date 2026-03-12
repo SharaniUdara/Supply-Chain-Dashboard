@@ -32,6 +32,22 @@ These insights help managers and analysts identify operational inefficiencies, i
 - Supplier Performance
 - Transportation Cost by Mode
 
+## Business Questions Answered
+
+- What is the total revenue generated from supply chain operations?
+- Which product types generate the highest revenue?
+- Which shipping carriers contribute the most revenue?
+- What is the defect rate percentage across product categories?
+- Which SKUs generate the highest revenue?
+- How do order quantities vary across products?
+- What are the stock levels across different SKUs?
+- Which suppliers maintain higher profit margins and stock levels?
+- What is the average lead time for product deliveries?
+- How do transportation modes impact costs and defect rates?
+
+## Dashboard Interaction
+
+
 
 
 
