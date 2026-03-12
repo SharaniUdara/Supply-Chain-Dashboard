@@ -84,6 +84,31 @@ Key visualizations include:
 - Created necessary calculations and measures to answer key business questions.
 - Developed interactive visualizations and combined them into a dynamic Power BI dashboard with slicers for filtering.
 
+## Project Insight
+
+- Key findings from the analysis include:
+- Supplier S1 contributes the highest revenue and order quantities.
+- Lead time varies across suppliers, with some suppliers delivering faster than others.
+- Certain suppliers handle more SKUs, indicating broader product availability.
+- Defect rates differ across inspection results, highlighting quality control areas.
+- Some locations such as Kolkata and Mumbai show higher total supply chain costs.
+- Product categories such as haircare and skincare show cost variation across suppliers.
+
+## Final Conclusion
+
+The Supply Chain Power BI Dashboard provides a comprehensive view of supplier performance, cost distribution, product demand, and operational efficiency.
+Organizations can use this dashboard to:
+
+- Identify top-performing suppliers
+- Monitor product quality and defect trends
+- Optimize supplier selection
+- Improve procurement cost management
+- Analyze regional supply chain spending
+- Enhance delivery performance through lead time monitoring
+
+By leveraging these insights, businesses can reduce operational costs, improve supplier collaboration, and strengthen overall supply chain performance.
+
+
 
 
 
