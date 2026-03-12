@@ -49,6 +49,8 @@ These insights help managers and analysts identify operational inefficiencies, i
 
 -<a href= https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Screen%20shot%201.png
 
+### Overview Dashboard
+Shows high-level supply chain performance including:
 
 
 
