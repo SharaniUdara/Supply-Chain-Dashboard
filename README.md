@@ -17,5 +17,23 @@ These insights help managers and analysts identify operational inefficiencies, i
 
 ## Dataset used
 
+-<a href= https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Supply_Chain_Management_Dataset_200_Rows.xlsx
+
+## Key Performance Indicators (KPIs)
+
+- Total Revenue
+- Total Products Sold
+- Total Supply Chain Cost
+- Average Profit Margin
+- Total Stock Level
+- Order Quantities
+- Lead Time & Manufacturing Lead Time
+- Defect Rate by Product Type
+- Supplier Performance
+- Transportation Cost by Mode
+
+
+
+
 
 
