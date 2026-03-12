@@ -50,7 +50,55 @@ These insights help managers and analysts identify operational inefficiencies, i
 -<a href= https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Screen%20shot%201.png
 
 ### Overview Dashboard
+
 Shows high-level supply chain performance including:
+- Total Revenue: $578K
+- Total Products Sold: 46K
+- Total Cost: 58K
+- Average Profit Margin: 86%
+- Stock Level: 5K
+      
+Key visualizations include:
+
+- Revenue by product type
+- Revenue by shipping carriers
+- Revenue by customer demographics
+- Defect rates by product type
+- Top SKUs by revenue
+- Supplier profit margin comparison
+
+## Product Insight Dashboard
+
+Focuses on product-level supply chain performance
+Key visuals:
+
+- Order quantities by SKU
+- Stock levels by SKU
+- Lead time vs manufacturing lead time
+- Profit margin distribution by product category
+- Relationship between price and total product sold
+
+## Supplier Insight Dashboard
+
+Analyzes supplier and logistics performance
+Key visuals:
+
+- Transportation cost by mode (Road, Rail, Air, Sea)
+- Defect rates by transportation modes
+- Supplier cost analysis
+- Supplier stock availability
+- Profit margin vs defect rate by supplie
+
+## Process
+
+- Verified the dataset for missing values, duplicates, and anomalies, and resolved any data quality issues.
+- Cleaned and standardized the data by ensuring consistent data types, formats, and values.
+- Transformed and prepared the data using Power Query for analysis.
+- Created necessary calculations and measures to answer key business questions.
+- Developed interactive visualizations and combined them into a dynamic Power BI dashboard with slicers for filtering.
+
+
+
 
 
 
