@@ -49,7 +49,7 @@ These insights help managers and analysts identify operational inefficiencies, i
 
 -<a href= https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Screen%20shot%201.png
 
-### Overview Dashboard
+### Dashboard Overview
 - The dashboard tracks several key supply chain metrics:
 - Total Supply Chain Cost: $1.73M
 - Total Ordered Quantity: 9,754
@@ -75,28 +75,6 @@ Key visualizations include:
 - Defect rates by product type
 - Top SKUs by revenue
 - Supplier profit margin comparison
-
-## Product Insight Dashboard
-
-Focuses on product-level supply chain performance
-Key visuals:
-
-- Order quantities by SKU
-- Stock levels by SKU
-- Lead time vs manufacturing lead time
-- Profit margin distribution by product category
-- Relationship between price and total product sold
-
-## Supplier Insight Dashboard
-
-Analyzes supplier and logistics performance
-Key visuals:
-
-- Transportation cost by mode (Road, Rail, Air, Sea)
-- Defect rates by transportation modes
-- Supplier cost analysis
-- Supplier stock availability
-- Profit margin vs defect rate by supplie
 
 ## Process
 
