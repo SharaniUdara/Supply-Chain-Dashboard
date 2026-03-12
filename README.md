@@ -47,7 +47,9 @@ These insights help managers and analysts identify operational inefficiencies, i
 
 ## Dashboard Interaction
 
--<a href= 
+-<a href= https://github.com/SharaniUdara/Supply-Chain-Dashboard/blob/main/Screen%20shot%201.png
+
+
 
 
 
