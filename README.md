@@ -14,3 +14,4 @@ The dashboard enables users to analyze:
 - Revenue distribution across suppliers and locations
 
 These insights help managers and analysts identify operational inefficiencies, improve supplier management, and support data-driven decision-making.
+
